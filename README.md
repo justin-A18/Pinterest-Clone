@@ -1,8 +1,10 @@
 # Pinterest Clone
 
-¡Bienvenido al proyecto Pinterest Clone!
-
 Este proyecto es un clon de la popular plataforma Pinterest, desarrollado como parte de mi práctica en el desarrollo web. El objetivo principal es replicar la funcionalidad básica de Pinterest, incluyendo la capacidad de crear y explorar tableros de imágenes.
+
+## Demo
+
+Puedes ver una demostración en vivo de este proyecto [aquí](https://pinterest-clone-00.netlify.app/).
 
 ## Características
 
